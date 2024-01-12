@@ -1,4 +1,3 @@
-![logo](https://github.com/Team-LORO/Team-LORO/assets/24985130/4733253c-128f-4d0b-9708-fec992a5fd9d)
 # Team-LORO
 
 <b>Food Mates</b> is waste food management app that uses kotlin. This description will be updated in the near future.
